@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LucidDream</string>
+    <string name="app_label">Lucid Dream</string>
+    <string name="search_hint">Search Institute</string>
+    <string name="search_title">Search</string>
 </resources>
